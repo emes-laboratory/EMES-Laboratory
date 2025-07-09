@@ -1,9 +1,7 @@
 ---
 ---
 
-# emes-laboratory's Website
-
-An engaging 1-3 sentence description of your lab.
+# Earth Mechanics and physics for Energy Sustainability @VT-GEOS 
 
 {% include section.html %}
 
@@ -11,7 +9,9 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We focus on understanding the fundamental mechanics and hydraulic transport properties of the subsurface for risk mitigation and the safe development of geo-energies (Geothermal, CO2 sequestration, hydrogen storage). 
+
+We combine advanced experimental methods, natural observations (seismic, geodetic, geophysical), and analytical/numerical models to understand various hydro-mechanical couplings in faults and reservoirs.
 
 {%
   include button.html
